@@ -1,2 +1,19 @@
 div {
 }
+
+body {
+  background: #202020;
+  color: #606060;
+}
+
+button {
+  background: #303035;
+  color: #606060;
+  border: none;
+  border-radius: 15px;
+  padding: 15px;
+  cursor: pointer;
+}
+
+p {
+}
